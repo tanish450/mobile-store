@@ -1,4 +1,4 @@
-Project Link - https://ecommerce-mobile.netlify.app/
+Project Link - https://e-commerce-phone-stored.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ### `npm start`
